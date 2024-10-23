@@ -1,1 +1,1 @@
-this is a sample text in git folder 
+this is a sample text in git folder modified
